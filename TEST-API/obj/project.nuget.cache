@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sv+q6azhJ8SNv5wvI5YNQbUc8VVhF54ccsYqqaKwIO5ljSIZIO+0ibSTjOqGsGqUh+Ie5+HEuh8R7sJPbIjBvg==",
+  "dgSpecHash": "cjbWRUraXMwRX0T2X7OrHfjgw7JMrU2F4DS/yaDAFS2aPkV7XhQUeoPcZOGtxGUYG4DBZiSuhgSwi24PUrzSQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\michele.cappiciola\\Desktop\\TEST-API\\TEST-API\\TEST-API.csproj",
+  "projectFilePath": "C:\\ProgettiCSharp\\BackEnd\\TEST-API\\TEST-API\\TEST-API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\michele.cappiciola\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\michele.cappiciola\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.4\\microsoft.aspnetcore.authentication.jwtbearer.8.0.4.nupkg.sha512",

@@ -44,6 +44,3 @@ C:\Users\michele.cappiciola\Desktop\TEST-API\TEST-API\bin\Debug\net8.0\BCrypt.Ne
 C:\Users\michele.cappiciola\Desktop\TEST-API\TEST-API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\michele.cappiciola\Desktop\TEST-API\TEST-API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\michele.cappiciola\Desktop\TEST-API\TEST-API\bin\Debug\net8.0\NETCore.Encrypt.dll
-C:\Users\nicolo.cauli\Desktop\TEST-API\TEST-API\obj\Debug\net8.0\TEST-API.dll
-C:\Users\nicolo.cauli\Desktop\TEST-API\TEST-API\obj\Debug\net8.0\refint\TEST-API.dll
-C:\Users\nicolo.cauli\Desktop\TEST-API\TEST-API\obj\Debug\net8.0\TEST-API.pdb

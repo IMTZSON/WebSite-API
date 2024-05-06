@@ -55,6 +55,7 @@ namespace TEST_API.Helpers.JWT
                 Token = token,
                 Email = user.Email,
                 UserName = user.UserName,
+                Role = user.Role,
                 Expires_In = (int)tokenExpiryTimeStamp.Subtract(DateTime.Now).TotalSeconds
             };
         }

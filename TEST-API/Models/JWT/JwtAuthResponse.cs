@@ -9,6 +9,7 @@ namespace TEST_API.Models.JWT
         [EmailAddress]
         public required string Email { get; set; }
         public required string UserName { get; set; }
+        public required string Role {  get; set; }
         public int Expires_In { get; set; }
     }
 }

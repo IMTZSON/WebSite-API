@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\michele.cappiciola\\Desktop\\TEST-API\\TEST-API\\TEST-API.csproj": {}
+    "C:\\ProgettiCSharp\\BackEnd\\TEST-API\\TEST-API\\TEST-API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\michele.cappiciola\\Desktop\\TEST-API\\TEST-API\\TEST-API.csproj": {
+    "C:\\ProgettiCSharp\\BackEnd\\TEST-API\\TEST-API\\TEST-API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\michele.cappiciola\\Desktop\\TEST-API\\TEST-API\\TEST-API.csproj",
+        "projectUniqueName": "C:\\ProgettiCSharp\\BackEnd\\TEST-API\\TEST-API\\TEST-API.csproj",
         "projectName": "TEST-API",
-        "projectPath": "C:\\Users\\michele.cappiciola\\Desktop\\TEST-API\\TEST-API\\TEST-API.csproj",
+        "projectPath": "C:\\ProgettiCSharp\\BackEnd\\TEST-API\\TEST-API\\TEST-API.csproj",
         "packagesPath": "C:\\Users\\michele.cappiciola\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\michele.cappiciola\\Desktop\\TEST-API\\TEST-API\\obj\\",
+        "outputPath": "C:\\ProgettiCSharp\\BackEnd\\TEST-API\\TEST-API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
